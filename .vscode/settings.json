@@ -1,8 +1,13 @@
 {
     "cSpell.words": [
+        "barh",
+        "boxplot",
+        "figsize",
         "iloc",
         "isin",
         "lsuffix",
-        "rsuffix"
+        "rsuffix",
+        "xlabel",
+        "ylabel"
     ]
 }
